@@ -1,0 +1,4 @@
+# Example Journal Format
+# Use this as a guide for local journal.txt
+# date: YYYY-MM-DD
+# notes: the session summary will be saved here
